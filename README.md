@@ -1,6 +1,6 @@
 <p align="center">
-  <b>То что ты пидр ёпт</b><br><br>
-  <img src="https://i.imgur.com/DckxJwH.png" />
+  <b>$$$</b><br><br>
+  <img src="https://i.imgur.com/DSF4DXm_d.webp" />
 </p>
 <br><br>
 
