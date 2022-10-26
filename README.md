@@ -1,6 +1,6 @@
 <p align="center">
   <b>$$$</b><br><br>
-  <img src="https://i.imgur.com/DSF4DXm_d.webp" />
+  <img src="https://i.imgur.com/BGU4Dod.png" />
 </p>
 <br><br>
 
