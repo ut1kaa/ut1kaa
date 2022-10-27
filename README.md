@@ -1,7 +1,10 @@
 <p align="center">
-  <b>$ $ $</b><br><br>
-  <img src="https://i.imgur.com/DSF4DXm_d.png" />
-</p>
-<br><br>
 
+  <h2 align=center> $ $ $ </b>
+  <br>
+  <br>
+  <img src="https://i.imgur.com/DSF4DXm_d.png" />
+<br>
+<br>
 - a little coding of different programs 💻
+</p>
